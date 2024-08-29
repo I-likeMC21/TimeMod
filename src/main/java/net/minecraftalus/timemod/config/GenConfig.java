@@ -1,9 +1,9 @@
-package net.minecraftalus.timemod;
+package net.minecraftalus.timemod.config;
 
 import io.wispforest.owo.config.annotation.Config;
 import io.wispforest.owo.config.annotation.Modmenu;
 
-@Modmenu(modId = "timemod")
+//@Modmenu(modId = "timemod")
 @Config(name = "my-config", wrapperName = "MyConfig")
 public class GenConfig {
     public boolean shadow = false;
