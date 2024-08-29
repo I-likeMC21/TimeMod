@@ -1,4 +1,4 @@
-package net.noah.timemod;
+package net.minecraftalus.timemod;
 
 import net.fabricmc.fabric.api.datagen.v1.DataGeneratorEntrypoint;
 import net.fabricmc.fabric.api.datagen.v1.FabricDataGenerator;

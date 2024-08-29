@@ -1,4 +1,4 @@
-package net.noah.timemod;
+package net.minecraftalus.timemod;
 
 import net.fabricmc.api.ClientModInitializer;
 import net.fabricmc.fabric.api.client.rendering.v1.HudRenderCallback;

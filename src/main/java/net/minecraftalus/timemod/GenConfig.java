@@ -1,4 +1,4 @@
-package net.noah.timemod;
+package net.minecraftalus.timemod;
 
 import io.wispforest.owo.config.annotation.Config;
 import io.wispforest.owo.config.annotation.Modmenu;

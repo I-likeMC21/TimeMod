@@ -1,4 +1,4 @@
-package net.noah.timemod.mixin;
+package net.minecraftalus.timemod.mixin;
 
 import net.minecraft.server.MinecraftServer;
 import org.spongepowered.asm.mixin.Mixin;

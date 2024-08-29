@@ -16,13 +16,13 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"net.noah.timemod.TimeMod"
+			"net.minecraftalus.timemod.TimeMod"
 		],
 		"client": [
-			"net.noah.timemod.TimeModClient"
+			"net.minecraftalus.timemod.TimeModClient"
 		],
 		"fabric-datagen": [
-			"net.noah.timemod.TimeModDataGenerator"
+			"net.minecraftalus.timemod.TimeModDataGenerator"
 		]
 	},
 	"mixins": [
