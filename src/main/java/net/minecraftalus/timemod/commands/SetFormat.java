@@ -30,7 +30,7 @@ public class SetFormat implements ClientModInitializer {
 
                                     MutableText hereText = Text.literal("§3§l§nhere");
                                     hereText.setStyle(Style.EMPTY
-                                            .withHoverEvent(new HoverEvent(HoverEvent.Action.SHOW_TEXT, Text.literal("TEXT")))
+                                            .withHoverEvent(new HoverEvent(HoverEvent.Action.SHOW_TEXT, Text.literal("Filler Text. (I WILL forget to remove this)")))
                                             .withClickEvent(new ClickEvent(ClickEvent.Action.OPEN_URL, "https://github.com/I-likeMC21/TimeMod")));
 
                                     MutableText fullText = Text.literal("Invalid format '").append(format).append("'. For full documentation, click ");

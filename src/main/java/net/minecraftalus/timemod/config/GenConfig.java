@@ -4,9 +4,10 @@ import io.wispforest.owo.config.annotation.Config;
 import io.wispforest.owo.config.annotation.Modmenu;
 
 //@Modmenu(modId = "timemod")
-@Config(name = "my-config", wrapperName = "MyConfig")
+@Config(name = "timemodconfig", wrapperName = "MyConfig")
 public class GenConfig {
     public boolean shadow = false;
     public String hex = "FFFFFF";
-    public String format = "yy dd hh:ss";
+    public String format = "dd hh:mm:ss";
+    public int padding = 2;
 }
